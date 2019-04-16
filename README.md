@@ -19,10 +19,10 @@ That's it !!!
 The docker compose contains 2 part :-
 
 <b> APP </b>
-Dockerfile present in here. That will compile and package it up the code and run the java against that jar file and expose that to port 8080.
+- Dockerfile present in here. That will compile and package it up the code and run the java against that jar file and expose that to port 8080.
 
 <b> NGINX </b>
-Nginx gets the required configurations present from nginx/conf.d/nginx.conf and place it to the container.
+- Nginx gets the required configurations present from nginx/conf.d/nginx.conf and place it to the container.
 This map the port 8080(Exposed by the app) with 80(http) and handles the redirect required as per the business requirement.
 
 # How to use ?
