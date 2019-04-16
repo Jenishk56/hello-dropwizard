@@ -11,6 +11,7 @@ Kind Note:- I have done this exercise on a Macbook and didn't require the vagran
 
 # How to deploy ?
 It is very simple execute below command in here.
+
 `docker-compose up`
 
 That's it !!!
