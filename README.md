@@ -16,7 +16,7 @@ It is very simple execute below command in here.
 
 That's it !!!
 
-# What's happening behind ?
+# What's happening behind the scene ?
 The docker compose contains 2 part :-
 
 <b> APP </b>
